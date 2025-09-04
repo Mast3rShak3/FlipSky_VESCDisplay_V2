@@ -2,7 +2,7 @@
 
 A professional ESP32-based dashboard for VESC motor controllers featuring MPH speed display, comprehensive telemetry monitoring, and custom typography designed for electric scooters, skateboards, and other personal electric vehicles.
 
-![Dashboard Preview]([docs/dashboard_preview.jpg](https://github.com/Mast3rShak3/FlipSky_VESCDisplay_V2/blob/353afb5542e0324df9a31ebdf481d0cc4482ff85/imgs/background.png))
+![Dashboard Preview](imgs/background.png)
 *Dashboard displaying real-time speed, battery status, and motor telemetry*
 
 ## ✨ Features
