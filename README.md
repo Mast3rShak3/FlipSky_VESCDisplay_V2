@@ -127,7 +127,7 @@ Configure `User_Setup.h` in TFT_eSPI library:
 ### **5. Upload Process**
 ```bash
 # 1. Clone this repository
-git clone https://github.com/yourusername/VESC-MPH-Dashboard.git
+gh repo clone Mast3rShak3/FlipSky_VESCDisplay_V2
 
 # 2. Open main.ino in Arduino IDE
 # 3. Select board: ESP32 Dev Module
