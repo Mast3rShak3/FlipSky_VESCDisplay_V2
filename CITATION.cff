@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the original work and this derivative."
+title: "Optimized VESC Display"
+abstract: "An optimized ESP32-based display system for VESC motor controllers, featuring improved performance, streamlined code architecture, and enhanced visual design. Based on the original SimpleVescDisplay project."
+type: software
+authors:
+  - family-names: "Trifty"
+    given-names: "Andrew"
+    orcid: "https://orcid.org/0000-0000-0000-0000" # Optional: replace with your ORCID if you have one
+license: "MIT" # Adjust based on your chosen license
+repository-code: "https://github.com/Mast3rShak3/FlipSky_VESCDisplay_V2" # Replace with your repository
+url: "https://github.com/Mast3rShak3/FlipSky_VESCDisplay_V2" # Replace with your repository
+version: "1.0.0"
+date-released: "2024-12-19"
+
+# Original work citation
+references:
+  - type: software
+    title: "SimpleVescDisplay"
+    abstract: "ESP32-based display system for VESC motor controllers with TFT display support and real-time telemetry visualization."
+    authors:
+      - name: "NetworkDir"
+    repository-code: "https://github.com/NetworkDir/SimpleVescDisplay"
+    url: "https://github.com/NetworkDir/SimpleVescDisplay"
+    license: "Unknown" # Update if you can determine the license
+    notes: "Original base implementation that inspired this optimized version"
+
+keywords:
+  - "ESP32"
+  - "VESC"
+  - "motor controller"
+  - "display"
+  - "embedded systems"
+  - "Arduino"
+  - "TFT"
+  - "telemetry"
